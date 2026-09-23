@@ -1,5 +1,5 @@
 # AegisRecruit: NDPR-Compliant Sovereign Agentic Recruitment Engine
-### Brendan Nicholas Holdings (BNH) — Executive Board Governance Platform
+### (BNH) — Executive Board Governance Platform
 
 [![NDPR Compliant](https://img.shields.io/badge/NDPR%20%2F%20NDPA-100%25%20Compliant-10B981?style=for-the-badge)](https://ndpc.gov.ng)
 [![Sovereign Edge AI](https://img.shields.io/badge/Inference-Local%20Ollama%20(gemma2%3A9b)-D4AF37?style=for-the-badge)](http://localhost:11434)
@@ -10,7 +10,7 @@
 
 ## Executive Overview
 
-**AegisRecruit** is an enterprise-grade, sovereign recruitment engine designed specifically for **Brendan Nicholas Holdings (BNH)** and its diversified operating subsidiaries:
+**AegisRecruit** is an enterprise-grade, sovereign recruitment engine designed specifically for **(BNH)** and its diversified operating subsidiaries:
 - **BNH Energy:** SCADA telemetry, smart grid IoT, power distribution, and renewable grid engineering.
 - **BNH GovTech:** Federal civil registries, biometric verification pipelines, customs clearing, and civic portals.
 - **BNH Property:** Smart tenancy platforms, automated lease contracts, and commercial asset operations.
